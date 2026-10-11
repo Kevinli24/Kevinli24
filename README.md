@@ -6,4 +6,4 @@ ECE Honors @ UT Austin · GPU systems / ML inference
 - [vLLM #54316](https://github.com/vllm-project/vllm/pull/54316) — verified the SM12x INT8 kernel-selection fix on consumer Blackwell
 
 **Projects**
-- [cuLLM-Kernels](https://github.com/<you>/<repo>) — CUDA GEMM kernels
+- [cuLLM-Kernels]([https://github.com/<you>/<repo>](https://github.com/Kevinli24/cuLLM-Kernels)) — CUDA GEMM kernels
